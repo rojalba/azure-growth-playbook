@@ -8,12 +8,35 @@ A public portfolio framework for helping partners identify, qualify, and grow Az
 Many partners want to grow Azure revenue but need a clearer way to identify opportunities, build offers, activate sellers, and connect customer needs to measurable cloud outcomes.
 
 ## Growth Framework
-1. Identify opportunity
-2. Qualify business and technical need
-3. Align solution motion
-4. Build partner offer
-5. Create customer value narrative
-6. Track adoption and expansion
+## Identify Customer Signal
+
+- Legacy infrastructure
+- Security concerns
+- Data modernization
+- AI readiness
+- Cost optimization
+
+## Qualify Opportunity
+
+- Business challenge:
+- Desired outcome:
+- Stakeholders:
+- Timeline:
+- Budget:
+- Risks:
+## Map Azure Motion
+- Migration
+- Modernization
+- Security
+- Data & AI
+- Managed Services
+## Next Actions
+
+- Discovery Workshop
+- Assessment
+- Executive Review
+- Create customer value narrative
+- Track adoption and expansion
 ## Azure Opportunity Motions
 
 - Migration and modernization
